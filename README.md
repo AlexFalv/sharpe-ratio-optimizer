@@ -75,4 +75,4 @@ MSFT     0.220147
 
 
 Plot:
-(Add a screenshot of your efficient_frontier.png plot here!)
+<img width="1008" height="732" alt="Capture d’écran 2025-11-08 à 22 16 51" src="https://github.com/user-attachments/assets/1a3aa90c-9f6a-4ca1-a8e5-ad1f47d6dcfd" />
